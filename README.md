@@ -35,3 +35,7 @@ The MechatronicUML project consists of the following repositories:
 * https://github.com/fraunhofer-iem/mechatronicuml-verificationcore
 * https://github.com/fraunhofer-iem/testlanguage
 * https://github.com/fraunhofer-iem/uppaal-model
+
+## Roadmap stages
+
+We will be updating support for the latest version of the platform, as well as for graphics acceleration and integration with the polyglot translator and metalanguage development framework.
