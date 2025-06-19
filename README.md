@@ -38,4 +38,4 @@ The MechatronicUML project consists of the following repositories:
 
 ## Roadmap stages
 
-We will be updating support for the latest version of the platform, as well as for graphics acceleration and integration with the polyglot translator and metalanguage development framework.
+We will be updating support for the latest version of the platform, as well as for graphics acceleration and integration with the polyglot translator and metalanguage development framework. We will also develop the extension for the Eiffel code generator and the adapter for Modelica, Scilab and the RCE environment.
