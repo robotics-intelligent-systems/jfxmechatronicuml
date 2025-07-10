@@ -38,4 +38,4 @@ The MechatronicUML project consists of the following repositories:
 
 ## Roadmap stages
 
-We will be updating support for the latest version of the platform, as well as for graphics acceleration and integration with the polyglot translator and metalanguage development framework. We will also develop the extension for the Eiffel code generator and the adapter for Modelica, Scilab and the RCE environment with the gradual migration of the Eclipse platform to JavaFX support.
+We will be updating support for the latest platform version, as well as graphics acceleration and integration with the Haxe polyglot translator and metalanguage development framework. We will also be developing the Eiffel code generator extension and adapters for Modelica, Scilab, FreeCAD, KiCAD, and the RCE environment, with the gradual migration of the Eclipse platform, the Blender editor and the Godot engine to JavaFX support.
